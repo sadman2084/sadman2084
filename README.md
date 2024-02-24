@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Md Sadman Kabir</h1>
 <p align="left"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
 
-<img align="right" alt="coding" width="400" src="">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadman2084" alt="sadman2084" /></a> </p>
 
 - 📫 How to reach me **ug2102020@cse.pstu.ac.bd**
