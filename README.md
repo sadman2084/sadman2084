@@ -1,6 +1,6 @@
 ![logo](https://github.com/sadman2084/sadman2084/blob/main/%5BFREE%20-%20HDconvert.com%5D%201000_F_578485259_uOL8sXUzN1I0tFidflCCWoGpCb02l4za-transformed.jpg)
 <h1 align="center">Hi 👋, I'm Md Sadman Kabir</h1>
-<p align="left"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
+<p align="center"> <img class="center" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
 
 ![](https://komarev.com/ghpvc/?username=Sadman2084)
 
