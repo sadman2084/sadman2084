@@ -6,9 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadman2084" alt="sadman2084" /></a> </p>
 
+- 🔭 I’m currently studying on Computer Science
+
 - 📫 How to reach me **ug2102020@cse.pstu.ac.bd**
 
 - ⚡ Fun fact **I'm funny😁😁**
+
+- 👨‍💻 All of my projects are available at github
+
+- 💬 Ask me about C and C++
+
+- 🌱 I’m currently learning C++,Python,HTML,CSS,JS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
