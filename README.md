@@ -1,38 +1,66 @@
+## 👋 Hi, I'm Md Sadman Kabir
 
-<h1 align="center">Hi 👋, I'm Md Sadman Kabir</h1>
-
-
-![](https://komarev.com/ghpvc/?username=Sadman2084)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadman2084" alt="sadman2084" /></a> </p>
-
-- 🔭 I’m currently studying on Computer Science
-
-- 📫 How to reach me **ug2102020@cse.pstu.ac.bd**
-
-- ⚡ Fun fact **I'm funny😁😁**
-
-- 👨‍💻 All of my projects are available at github
-
-- 💬 Ask me about C and C++
-
-- 🌱 I’m currently learning C++,Python,HTML,CSS,JS
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sadman kbair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman kbair" height="30" width="40" /></a>
-<a href="https://instagram.com/sadman2084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadman2084" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sadmankabir897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadmankabir897" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sadman2084&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sadman2084"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sadman2084" /></a></p><br><br><br>
+### 🚀 About Me
+- 🎓 **Currently Studying:** Computer Science
+- 💻 **Projects:** Available on my [GitHub](https://github.com/Sadman2084)
+- 📧 **Contact:** [ug2102020@cse.pstu.ac.bd](mailto:ug2102020@cse.pstu.ac.bd)
+- 💬 **Ask Me About:** C, C++
+- 🌱 **Currently Learning:** C++, Python, HTML, CSS, JavaScript
+- 🎭 **Fun Fact:** I'm funny 😁
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadman2084&show_icons=true&locale=en&layout=compact" alt="sadman2084" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadman2084&show_icons=true&locale=en" alt="sadman2084" /></p>
+### 📡 Connect with Me
+<p align="center">
+  <a href="https://fb.com/sadman kbair" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/sadman2084" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://codeforces.com/profile/sadmankabir897" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%230036A7.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman2084&" alt="sadman2084" /></p>
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,html,css,js,python,java,linux" alt="Skills" />
+</p>
+
+---
+
+### ☕ Support Me
+<p align="center">
+  <a href="https://ko-fi.com/sadman2084" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadman2084&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadman2084&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadman2084&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+---
+
+🎯 *Always exploring new technologies and improving my skills. Let's connect and collaborate!* 🚀
+
