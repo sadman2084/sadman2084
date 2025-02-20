@@ -1,5 +1,9 @@
 ![banner](main.gif)
-## 👋 Hi, I'm Md Sadman Kabir
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML+and+Data+Science+Enthusiast;A+student+at+PSTU;Studying+BSc.+in+CSE)](https://git.io/typing-svg)
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there! I'm Sadman</h1>
+</samp>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadman2084&style=flat-square&color=blue" alt="Profile Views"/>
