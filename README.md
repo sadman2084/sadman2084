@@ -1,3 +1,4 @@
+![banner](main.gif)
 ## 👋 Hi, I'm Md Sadman Kabir
 
 <p align="center">
