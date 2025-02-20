@@ -4,7 +4,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there! I'm Sadman</h1>
 </samp>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadman2084&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
