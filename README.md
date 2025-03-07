@@ -20,6 +20,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadman2084&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📡 Connect with Me
 <p align="center">
   <a href="https://fb.com/sadman kbair" target="_blank">
