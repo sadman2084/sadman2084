@@ -73,5 +73,11 @@
 
 ---
 
-🎯 *Always exploring new technologies and improving my skills. Let's connect and collaborate!* 🚀
+<h3 align="center">⚡ Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadman2084&theme=react-dark" alt="Contribution Graph"/>
+</p>
 
+---
+
+🎯 *Always exploring new technologies and improving my skills. Let's connect and collaborate!* 🚀
